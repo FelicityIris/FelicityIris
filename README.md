@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**FelicityIris/FelicityIris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science Nerd and Enthusiast who likes to tinker with Linux and developer tools and dabble in C & other programming languages.
 
-Here are some ideas to get you started:
+### Things I am acquainted with
+- C/C++
+- Java
+- Python
+- Javascript
+- HTML
+- CSS
+- Bash/Linux Shell Script
+- Linux System Administration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Biodata
+- **Legal Name:** Ajitesh
+- **Preferred Name/Pseudonym:** Felicity
+- **Currently Studying & Residing in:** Vellore Institute of Technology, Vellore
+- **Pursuing:** Bachelor of Technology in Computer Science and Engineering
