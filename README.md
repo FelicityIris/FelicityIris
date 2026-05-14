@@ -3,6 +3,8 @@
 I am a Computer Science Nerd and Enthusiast who likes to tinker with Linux and developer tools and dabble in C & other programming languages.
 
 ### Things I am acquainted with
+- MERN Stack
+- MySQL
 - C/C++
 - Java
 - Python
@@ -14,5 +16,5 @@ I am a Computer Science Nerd and Enthusiast who likes to tinker with Linux and d
 
 ### My Biodata
 - **Name:** Ajitesh Borah
-- **Preferred Name/Pseudonym:** Felicity Iris
+- **Pseudonym:** Felicity
 - **Pursuing:** Bachelor of Technology in Computer Science and Engineering at VIT, Vellore
