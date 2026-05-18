@@ -1,20 +1,37 @@
-# Hi there! 👋
+# Greetings!
+I am a Software Engineer interested in software development, backend systems, automation and Linux-based environments.
 
-I am a Computer Science Nerd and Enthusiast who likes to tinker with Linux and developer tools and dabble in C & other programming languages.
-
-### Things I am acquainted with
-- MERN Stack
-- MySQL
+### Technical Skills
+#### Full-Stack Development
+- MERN
+- Flask
+- Django
+#### Programming Languages
 - C/C++
-- Java
 - Python
-- Javascript
-- HTML
-- CSS
+- Java
+- JavaScript
+#### Frontend Technologies
+- HTML + CSS
+- Tailwind CSS
+- Bootstrap
+#### Databases
+- SQL (MySQL/MariaDB)
+- MongoDB
+- Database Design & Normalization
+#### Backend & APIs
+- REST API Development
+- CRUD Application Development
+#### Scripting & Automation
 - Bash/Linux Shell Script
+#### Operating Systems & Administration
 - Linux System Administration
+#### Tools & Technologies
+- Git (GitHub/Codeberg/Gitea)
+- VSCode
+- Vim/Neovim
 
 ### My Biodata
-- **Name:** Ajitesh Borah
+- **Name:** Ajitesh
 - **Pseudonym:** Felicity
-- **Pursuing:** Bachelor of Technology in Computer Science and Engineering at VIT, Vellore
+- **Pursuing:** Bachelor of Technology in Computer Science and Engineering at Vellore Institute of Technology, Vellore, Tamil Nadu
