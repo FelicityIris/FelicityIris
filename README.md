@@ -2,36 +2,55 @@
 I am a Software Engineer interested in software development, backend systems, automation and Linux-based environments.
 
 ### Technical Skills
-#### Full-Stack Development
-- MERN
-- Flask
-- Django
+
 #### Programming Languages
 - C/C++
+- Rust
 - Python
 - Java
-- JavaScript
+- Kotlin
+- JavaScript / TypeScript
+- Bash/Linux Shell
+
+#### Full-Stack Development
+- MERN Stack
+- Flask
+- Django
+
 #### Frontend Technologies
 - HTML + CSS
+- React
 - Tailwind CSS
 - Bootstrap
-#### Databases
-- SQL (MySQL/MariaDB)
-- MongoDB
-- Database Design & Normalization
-#### Backend & APIs
+- Vite
+
+#### Backend & DevOps
+- Node.js / Express.js
 - REST API Development
-- CRUD Application Development
-#### Scripting & Automation
-- Bash/Linux Shell Script
-#### Operating Systems & Administration
+- WebSockets
+- Docker
+- Redis
+- AWS
+
+#### Databases
+- SQL
+- MySQL / MariaDB
+- MongoDB
+- PostgreSQL
+- SQLite
+- Database Design & Normalization
+
+#### Operating Systems
 - Linux System Administration
+  
 #### Tools & Technologies
-- Git (GitHub/Codeberg/Gitea)
-- VSCode
-- Vim/Neovim
+- Git (GitHub / Codeberg / Gitea)
+- Visual Studio Code
+- IntelliJ Idea
+- Android Studio
+- Vim / Neovim
 
 ### My Biodata
-- **Name:** Ajitesh
-- **Pseudonym:** Felicity
+- **Name:** Ajitesh Borah
+- **Dev Handle:** Felicity Iris
 - **Pursuing:** Bachelor of Technology in Computer Science and Engineering at Vellore Institute of Technology, Vellore, Tamil Nadu
